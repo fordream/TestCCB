@@ -409,7 +409,7 @@
 								<key>value</key>
 								<array>
 									<string>onClose</string>
-									<integer>2</integer>
+									<integer>1</integer>
 									<integer>32</integer>
 								</array>
 							</dict>
@@ -549,8 +549,6 @@
 								</array>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 						<key>seqExpanded</key>
 						<true/>
 					</dict>
