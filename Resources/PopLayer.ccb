@@ -121,11 +121,23 @@
 				<key>displayName</key>
 				<string>CCLayerColor</string>
 				<key>memberVarAssignmentName</key>
-				<string>mMaskLayer</string>
+				<string></string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
 				<array>
+					<dict>
+						<key>name</key>
+						<string>position</string>
+						<key>type</key>
+						<string>Position</string>
+						<key>value</key>
+						<array>
+							<real>-2.0736002922058105</real>
+							<real>2.0736002922058105</real>
+							<integer>0</integer>
+						</array>
+					</dict>
 					<dict>
 						<key>name</key>
 						<string>contentSize</string>
@@ -365,7 +377,7 @@
 								<key>value</key>
 								<array>
 									<real>0.0</real>
-									<real>0.0</real>
+									<real>-2.0736002922058105</real>
 									<integer>2</integer>
 								</array>
 							</dict>
@@ -558,7 +570,7 @@
 				<key>displayName</key>
 				<string>CCLayerColor</string>
 				<key>memberVarAssignmentName</key>
-				<string>mShowBox</string>
+				<string></string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
